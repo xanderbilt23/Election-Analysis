@@ -27,10 +27,10 @@ The analysis of the election show that:
 -Denver county received 82.8% of the votes and 306,055 number of votes.
 -Arapahoe county received 6.7% of the votes and 24,801 number of votes.
 The following code was used to calculate the percentage of total votes for each county:
-...
+```
 
 county_vote_percentage = float(C_votes) /float(total_votes)\* 100
-...
+```
 -The county with the largest turnout was:
 -Denver county, which received received 82.8% of the votes and 306,055 number of votes.
 -The candidates were:
