@@ -44,7 +44,7 @@ county_vote_percentage = float(C_votes) /float(total_votes)\* 100
 -The winner of the election was:
 -Diana DeGette, who received 272,892 number of votes 73.8% of the total votes.
 
-![election_analysis.png] 
+![election_analysis.png] (https://github.com/xanderbilt23/Election-Analysis/blob/main/Resources/election_analysis.png)
 ## Election-Audi Summary
 
 This script can be used for any election by changing the file to load and the file to save file path.
